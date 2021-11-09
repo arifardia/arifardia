@@ -1,7 +1,6 @@
-### Hi there 👋
-
+## "Hello"
 <!--
-**kucingWiz/kucingWiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GreenH00die/GreenH00die** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm Wiz
+- I'm currently learning Front-End Web Dev and well i want to be a Fullstack Web Dev
+
+Nice to meet you, and have a nice day

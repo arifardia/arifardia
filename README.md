@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm Wiz
+I'm Wiz
+
 Nice to meet you, and have a nice day

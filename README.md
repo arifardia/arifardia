@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 -->
 
 - I'm Wiz
-- I'm currently learning Front-End Web Dev and well i want to be a Fullstack Web Dev
-
 Nice to meet you, and have a nice day

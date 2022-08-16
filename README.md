@@ -16,7 +16,6 @@ Nice to meet you, and have a nice day
   </samp>
 </p>
 -->
-<h2></h2><br>
 
 <!-- Profile Views Badge -->
 <!-- <p align="center">
@@ -31,8 +30,8 @@ Nice to meet you, and have a nice day
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wizarash&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizarash&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="160px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wizarash&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></a></td>
+      <td><a href="#--------"><img height="160px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizarash&layout=compact&theme=radical"/></a></td>
     </tr>
   </table>
 </div>

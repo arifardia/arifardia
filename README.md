@@ -10,10 +10,9 @@ Nice to meet you, and have a nice day
 <!-- 
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rayhankafipratama">instagram</a>]
-    [<a href="https://matrix.to/#/@rxyhn:matrix.org">matrix</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+    [<a href="https://twitter.com/">twitter</a>]
+    [<a href="https://instagram.com/">instagram</a>]
+    [<a href="mailto:">e-mail</a>]
   </samp>
 </p>
 -->

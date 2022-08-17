@@ -1,8 +1,26 @@
 <div align="justify">
+<h1 align="center">
+  <i> Hello there! </i>
+</h1>
 
-I'm Wiz
+```sh
+> pfetch
+```
 
-Nice to meet you, and have a nice day
+<img align="left" src="https://github.com/wizarash.png" width="230" />
+
+```haskell
+wizarash@github
+------------------------------
+os       • endeavouros x86_64
+shell    • fish 3.4.1
+wm       • awesome
+pronouns • he/him
+learning • html, css, javascript, React,
+           Node.js.
+discord  • wiz#
+```
+
 <h2></h2>
 <details>
 <summary><samp><b>More Info</b></samp></summary>
@@ -28,12 +46,8 @@ Nice to meet you, and have a nice day
 -->
 <!-- Github Stats -->
 <div align="center">
-  <table>
-    <tr>
       <td><a href="#--------"><img height="160px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wizarash&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></a></td>
       <td><a href="#--------"><img height="160px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizarash&layout=compact&theme=radical"/></a></td>
-    </tr>
-  </table>
 </div>
 
 </details>

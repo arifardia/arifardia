@@ -2,12 +2,12 @@
 <h1 align="center">
   <i> Hello there! </i>
 </h1>
-
+ 
 ```sh
 > pfetch
 ```
 
-<img align="left" src="https://github.com/wizarash.png" width="220" />
+<img align="left" src="https://github.com/wizarash.png" width="210" />
 
 ```haskell
 wizarash@github

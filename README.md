@@ -9,16 +9,16 @@
 
 <img align="left" src="https://github.com/wizarash.png" width="210" />
 
-```haskell
+```cpp
 wizarash@github
 -------------------------
-os       • endeavouros x86_64
-shell    • fish 3.4.1
-wm       • awesome
-pronouns • he/him
-learning • html, css, javascript, 
+os       : endeavouros x86_64
+shell    : fish 3.4.1
+wm       : awesome
+pronouns : he/him
+learning : html, css, javascript, 
            React, Node.js.
-discord  • WizCat#7131
+discord  : WizCat#7131
 
 ```
 

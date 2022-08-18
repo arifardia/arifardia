@@ -1,25 +1,29 @@
-<div align="justify">
 <h1 align="center">
   <i> Hello there! </i>
 </h1>
  
-```sh
+```fish
 > pfetch
 ```
+<img align="left" src="https://github.com/wizarash.png" width="310"/>
 
-<img align="left" src="https://github.com/wizarash.png" width="210" />
-
-```cpp
+```dart
 wizarash@github
 -------------------------
-os       : endeavouros x86_64
+os       : endeavourOS x86_64
 shell    : fish 3.4.1
 wm       : awesome
 pronouns : he/him
 learning : html, css, javascript, 
-           React, Node.js.
+           react, node.js.
 discord  : WizCat#7131
 
+
+
+
+
+
+-------------------------
 ```
 
 <h2></h2>
@@ -32,4 +36,3 @@ discord  : WizCat#7131
 </div>
 
 </details>
-</div>

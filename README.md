@@ -10,13 +10,13 @@
 ```dart
 wizarash@github
 -------------------------
-os       : endeavourOS x86_64
-shell    : fish 3.4.1
-wm       : awesome
-pronouns : he/him
-learning : html, css, javascript, 
+OS       : EndeavourOS x86_64
+Shell    : fish 3.4.1
+WM       : awesome
+Pronouns : He/Him
+Learning : html, css, javascript, 
            react, node.js.
-discord  : WizCat#7131
+Discord  : WizCat#7131
 
 
 

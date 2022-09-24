@@ -10,8 +10,8 @@
 ```dart
 wizarash@github
 -------------------------
-OS       : EndeavourOS x86_64
-Shell    : fish 3.4.1
+OS       : Fedora Linux 36 (Workstation Edition) x86_64
+Shell    : zsh 5.8.1
 WM       : awesome
 Pronouns : He/Him
 Learning : html, css, javascript, 

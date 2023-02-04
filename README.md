@@ -1,5 +1,5 @@
 ## Hello There! 👋
-#### I'm wizarash
+#### I'm wizunya
 - 🔭 I’m currently working on this github profile 😅.
 - 🌱 I’m currently learning **everything!**
 <details>

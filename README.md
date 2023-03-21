@@ -1,5 +1,5 @@
 ## Hello There! 👋
-#### I'm wizu
+#### I'm Arif
 - 🔭 I’m currently working on this github profile 😅.
 - 🌱 I’m currently learning **everything!**
 <details>

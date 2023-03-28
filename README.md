@@ -1,5 +1,5 @@
-## Hi There, I'm Arif - aka wizumon 👋
-#### I'm a Library and Information Science Student
+## Hi There, I'm Arif - aka Wizumon 👋
+#### I'm a Library and Information Science Undergraduate Student
 - 🔭 I’m currently working on this github profile 😅.
 - 🌱 I’m currently learning **everything!**
 <details>

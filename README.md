@@ -1,5 +1,4 @@
 ## Hi There 👋
-#### I'm an Undergraduate student majoring in Library and Information Science
 - 🔭 I’m currently working on this github profile 😅.
 - 🌱 I’m currently learning **everything!**
 <details>
